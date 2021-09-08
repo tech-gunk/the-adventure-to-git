@@ -1,4 +1,5 @@
 This is advanture to git.
 1) git init
-2) git commit
-3) git push
+2) git add .
+3) git commit -m "your comment"
+4) git push -u origin
